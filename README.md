@@ -5,7 +5,7 @@
     <h3>I am a young person and have always been interested in programming</h3>
   </header>
   <main>
-    <h5>HI i'm MisiuDev and I like coding. I must study for my dream job - full stack developer. Enjoy :)</h5>
+    <h5>HI i'm MisiuDev and I like coding. I need learning for my dream job - full stack developer. Enjoy :)</h5>
 
   <h2>✨ About me ✨</h2>
   
@@ -18,7 +18,7 @@
   <h2>🧠 Languages that I know 🧠</h2>
   
    - 🇵🇱 Polish (native)
-   - 🇺🇸 English (US)
+   - 🇺🇸 English (US) **I need to learn more**
 
 #
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MisiuDev)
